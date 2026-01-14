@@ -1,5 +1,10 @@
-# Hello, I'm MinSeo Kim!
+## Hello, I'm MinSeo Kim!
+I am an undergraduate student in Computer Science and Engineering.
+
+
 ## Always learning and exploring!
+I write posts about my interests
+
 
 <a href="https://github.com/devxb/gitanimals">
   <!-- <img src="https://render.gitanimals.org/lines/Sunnystela?pet-id=1" width="1000" height="120"/> -->
